@@ -1,0 +1,24 @@
+.block-one{
+    background: rgb(97, 66, 54);
+    color: #fff;
+}
+
+.accent-text{
+    color: #f785de;
+}
+
+.square {
+    background: #fd4f4f;
+    width: 100px;
+    height: 100px;
+}
+
+.block-two {
+    background: #ab50c7;
+    width: 300px;
+}
+
+.element{
+    background: #6d1d85;
+    color: #fff;
+}
